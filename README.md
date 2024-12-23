@@ -1,5 +1,5 @@
 # **Prediksi Bioaktivitas Senyawa terhadap Protein MTOR Menggunakan Pendekatan Random Forest Regressor dan Artificial Neural Network**
-
+![alt text](mTOR.png?raw=true)
 ## Kelompok 8 Bioinformatika RB
 
 - Meinisa - 121450076
