@@ -11,7 +11,7 @@
 
 ---
 
-## 📱**Tentang Proyek**
+## 📱 **Tentang Proyek**
 
 Proyek ini bertujuan untuk melakukan prediksi bioaktivitas senyawa terhadap protein MTOR (mechanistic Target of Rapamycin) menggunakan Artificial Neural Network (ANN) dan Random Forest Regressor (RFR). Kedua pendekatan tersebut digunakan untuk:
 
@@ -22,7 +22,7 @@ Protein ini penting dalam pengobatan kanker, diabetes, dan penyakit lainnya, seh
 
 ---
 
-## 🎙 Data 
+## 📋 Data 
 
 - **Sumber**: Database ChEMBL.
 - **Fitur Utama**:
