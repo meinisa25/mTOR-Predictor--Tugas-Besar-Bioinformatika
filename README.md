@@ -1,4 +1,4 @@
-# **Prediksi Bioaktivitas Senyawa terhadap Protein MTOR Menggunakan Pendekatan Random Forest Regressor dan Artificial Neural Network**
+# **Prediksi Bioaktivitas Senyawa terhadap Protein MTOR Menggunakan Pendekatan Artificial Neural Network**
 ![alt text](mTOR.png?raw=true)
 ## Kelompok 8 Bioinformatika RB
 
@@ -13,7 +13,7 @@
 
 ## 📱 **Tentang Proyek**
 
-Proyek ini bertujuan untuk melakukan prediksi bioaktivitas senyawa terhadap protein MTOR (mechanistic Target of Rapamycin) menggunakan Artificial Neural Network (ANN) dan Random Forest Regressor (RFR). Kedua pendekatan tersebut digunakan untuk:
+Proyek ini bertujuan untuk melakukan prediksi bioaktivitas senyawa terhadap protein MTOR (mechanistic Target of Rapamycin) menggunakan Artificial Neural Network (ANN). Pendekatan tersebut digunakan untuk:
 
 1. Mengklasifikasikan senyawa berdasarkan bioaktivitasnya (active, inactive, intermediate).
 2. Memperkirakan nilai pIC50 sebagai ukuran kuantitatif efektivitas senyawa.
